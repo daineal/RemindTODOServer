@@ -57,6 +57,7 @@ public class DatabaseConfig {
         ds.setValidationQuery(env.getRequiredProperty("db.validationQuery"));
 
         return ds;
+
     }
 
     @Bean
