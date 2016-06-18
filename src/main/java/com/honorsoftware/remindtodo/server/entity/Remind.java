@@ -22,7 +22,6 @@ public class Remind {
     private Date remindDate;
 
     public Remind() {
-
     }
 
     public long getId() {
